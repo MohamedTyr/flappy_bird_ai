@@ -3,6 +3,10 @@
 This project implements the classic **Flappy Bird** game using Python and Pygame, with an added twist: the bird is controlled by a neural network that learns to play the game using the **NEAT** (NeuroEvolution of Augmenting Topologies) algorithm. The AI evolves over generations to improve its performance, trying to navigate the bird through pipes and maximize its score.
 
 
+
+https://github.com/user-attachments/assets/7516b632-2afe-461a-822c-84f0c544e648
+
+
 ## Features
 
 - **Flappy Bird Gameplay**: Classic side-scrolling mechanics with obstacles (pipes) that the bird must avoid.
@@ -26,7 +30,7 @@ To run this project, you'll need:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/yourusername/flappy-bird-neat.git
+   git clone https://github.com/MohamedTyr/flappy_bird_ai
    cd flappy-bird-neat
    ```
 
