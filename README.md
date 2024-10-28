@@ -31,7 +31,7 @@ To run this project, you'll need:
 
    ```bash
    git clone https://github.com/MohamedTyr/flappy_bird_ai
-   cd flappy-bird-neat
+   cd flappy-bird-ai
    ```
 
 2. **Install Dependencies**:
